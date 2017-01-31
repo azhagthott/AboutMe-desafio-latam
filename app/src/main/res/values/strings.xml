@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="main_title">Francisco Barrios</string>
+
+    <string name="biography">
+        Mi nombre es David y morí hace un tiempo.
+
+    </string>
+
+    <string name="column_name_area">Area</string>
+    <string name="column_name_year">Años</string>
+
+    <string name="area_name_1">Android</string>
+    <string name="area_cant_1">1</string>
+
+    <string name="area_name_2">PHP</string>
+    <string name="area_cant_2">2</string>
+
+    <string name="link_text">Links</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact">Contacto</string>
+
+    <string name="hint_email_contact">Correo electronico</string>
+    <string name="contact_lbl_button">Contacto</string>
+    <string name="send_lbl_button">Enviar</string>
+
+</resources>
